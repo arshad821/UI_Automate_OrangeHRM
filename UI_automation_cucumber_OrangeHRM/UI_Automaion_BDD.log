@@ -1,0 +1,142 @@
+2023-01-25 18:52:04,459 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:52:04,475 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:52:04,476 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:52:04,478 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:52:04,480 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 18:52:11,947 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 18:52:58,179 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:52:58,179 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:52:58,179 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:52:58,180 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:52:58,201 [ERROR] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [51d14aa8c9a5a3c0deb4ace921b8be6b, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57250}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57250/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 51d14aa8c9a5a3c0deb4ace921b8be6b
+2023-01-25 18:53:07,913 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:53:07,915 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:53:07,915 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:53:07,917 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:53:07,918 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 18:53:08,251 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 18:53:47,852 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user logged in succesfully on home page
+2023-01-25 18:53:56,574 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user clicked time option from menu bar
+2023-01-25 18:54:03,397 [ERROR] com.arshad.StepDefinition.VerifypendingTimeSheet [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [656cb134e82c1c1a78c050fd9332542e, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[2]/div[2]/div/form/div[2]/div/div[1]/p}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57789}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57789/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 656cb134e82c1c1a78c050fd9332542e
+2023-01-25 18:54:05,511 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:54:05,511 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:54:05,511 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:54:05,513 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:54:05,524 [ERROR] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [656cb134e82c1c1a78c050fd9332542e, getCurrentUrl {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:57789}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:57789/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 656cb134e82c1c1a78c050fd9332542e
+2023-01-25 18:54:46,846 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:54:46,848 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:54:46,848 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:54:46,849 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:54:46,849 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 18:54:47,211 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 18:55:13,825 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] user is logged in succesfully on home page
+2023-01-25 18:55:16,745 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] when user clicks directory option from menu bar
+2023-01-25 18:55:23,945 [ERROR] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/div/div[2]/div/span"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [68c8ec357c90ec4ff490fbff5fb69acb, findElement {using=xpath, value=//*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/div/div[2]/div/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:53727}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53727/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 68c8ec357c90ec4ff490fbff5fb69acb
+2023-01-25 18:58:41,716 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 18:58:41,718 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 18:58:41,719 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 18:58:41,719 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 18:58:41,720 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 18:58:42,066 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 18:59:16,858 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] user is logged in succesfully on home page
+2023-01-25 18:59:20,058 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] when user clicks directory option from menu bar
+2023-01-25 18:59:27,264 [ERROR] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/div/div[2]/div/span"}
+  (Session info: chrome=107.0.5304.107)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7a7774c54b0bbea877e4fd7265143f26, findElement {using=xpath, value=//*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/div/div[2]/div/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62470}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:62470/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7a7774c54b0bbea877e4fd7265143f26
+2023-01-25 19:13:30,135 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:13:30,137 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:13:30,137 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:13:30,139 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:13:30,139 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 19:13:30,561 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 19:14:15,125 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:14:15,129 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:14:15,129 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:14:15,131 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:14:15,132 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 19:14:15,466 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 19:14:54,071 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] user is logged in succesfully on home page
+2023-01-25 19:14:56,837 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] when user clicks directory option from menu bar
+2023-01-25 19:15:00,538 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] User entered name and clicked search button
+2023-01-25 19:15:02,603 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] User now should see CEO name 
+2023-01-25 19:15:04,633 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:15:04,633 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:15:04,633 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:15:04,634 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:15:07,323 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user logged in succesfully on home page
+2023-01-25 19:15:13,055 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user clicked time option from menu bar
+2023-01-25 19:15:20,068 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] expected message seen
+2023-01-25 19:16:27,597 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:16:27,599 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:16:27,599 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:16:27,601 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:16:27,603 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 19:16:27,915 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 19:17:12,079 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] user is logged in succesfully on home page
+2023-01-25 19:17:12,863 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] when user clicks directory option from menu bar
+2023-01-25 19:17:15,640 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] User entered name and clicked search button
+2023-01-25 19:17:16,253 [INFO ] com.arshad.StepDefinition.Verify_CEO_nameStepDef [main] User now should see CEO name 
+2023-01-25 19:17:16,268 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:17:16,269 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:17:16,269 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:17:16,270 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:17:18,849 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user logged in succesfully on home page
+2023-01-25 19:17:19,830 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] user clicked time option from menu bar
+2023-01-25 19:17:24,746 [INFO ] com.arshad.StepDefinition.VerifypendingTimeSheet [main] expected message seen
+2023-01-25 19:21:41,792 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:21:41,796 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:21:41,796 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:21:41,798 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:21:41,800 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Driver is null instatianting it!
+2023-01-25 19:21:42,280 [INFO ] com.arshad.WebDriver_manager.Driver_Manager [main] LAunchingwebdriver.chrome.driver
+2023-01-25 19:21:56,360 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Execution Started
+2023-01-25 19:21:56,361 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Instantiating Common Utils
+2023-01-25 19:21:56,362 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Loading Properties
+2023-01-25 19:21:56,373 [INFO ] com.arshad.CommonStepDefinition.Common_step_def [main] Checking driver is null or not
+2023-01-25 19:21:56,438 [ERROR] com.arshad.StepDefinition.VerifypendingTimeSheet [main] org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=107.0.5304.107)
+Build info: version: '4.7.2', revision: '4d4020c3b7'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bb839bf9f65be8e1c62fb355d79d1900, findElement {using=xpath, value=//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[8]/a/span}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.107, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\2143925\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:51503}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51503/devtoo..., se:cdpVersion: 107.0.5304.107, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: bb839bf9f65be8e1c62fb355d79d1900
